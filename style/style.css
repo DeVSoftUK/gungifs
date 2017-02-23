@@ -1,0 +1,20 @@
+p {
+	font-size: 100px;
+	text-align: center;
+	color: red;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+}
+
+a.button1 {
+    color: blue;
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+}
+
+body {
+	background-color: gray;
+}
